@@ -48,14 +48,20 @@ endmodule
 
 
 **RTL realization**
+
+
 <img width="329" alt="ed ex2 1" src="https://github.com/Mythili7339267708/BOOLEAN_FUNCTION_MINIMIZATION/assets/144260246/33274556-a0d6-48d3-89d7-d972a5843668">
 
 
 **Output:**
+
+
 <img width="597" alt="de ex2 2" src="https://github.com/Mythili7339267708/BOOLEAN_FUNCTION_MINIMIZATION/assets/144260246/616c072e-3990-4fc1-b53a-cae5ee40c7a7">
 
 
 **Timing Diagram:**
+
+
 <img width="785" alt="de ex 2 3" src="https://github.com/Mythili7339267708/BOOLEAN_FUNCTION_MINIMIZATION/assets/144260246/902260b9-1a1c-413e-b4e5-242b31ea89e4">
 
 
